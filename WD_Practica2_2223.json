@@ -21,7 +21,7 @@
         "id": 3,
         "autor": "Nadia Diaz Cano, Xavier de Haro Martin",
         "titulo": "Xana",
-        "srcimg": "https://github.com/Naduazca/xana/blob/ceb68645beff141fe37642abc2242b1671f09e4e/logoxana.jpg?raw=true",
+        "srcimg": "https://raw.githubusercontent.com/Naduazca/xana/ceb68645beff141fe37642abc2242b1671f09e4e/logoxana.jpg",
         "alt": "Logotip de la web",
         "texto": "Xana és una pàgina sobre els records",
         "url": "https://Naduazca.github.io/xana/"
