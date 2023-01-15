@@ -35,4 +35,13 @@
         "texto": "KSTea News és una web de noticies de cultura pop sur coreana",
         "url": "https://lishuhuertas.github.io/KSTeaNews2/"
       }
+      {
+      "id": 5,
+      "autor": "Genis Fernandez, Biel Griñó"
+      "titul": "PlayRN"
+      "srcimg": "https://github.com/BielGr28/projecte2/blob/main/img/LOGO.0e975517.png",
+      "alt": "Logotip de la Web",
+      "texto": "PlayRN és una pàgina sobre el món dels videojocs"
+      "url": "https://bielgr28.github.io/projecte2/"
+      }
 ]
