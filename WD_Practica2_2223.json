@@ -48,9 +48,9 @@
         "id": 6,
         "autor": "Ariana Ariño, Rut Guardia",
         "titulo": "Perennial",
-        "srcimg": "--",
+        "srcimg": "https://github.com/RutGuardia/perennial2/blob/main/img/portada.0caec20e.png",
         "alt": "Portada de la Web",
         "texto": "A Perennial es recullen les històries que hi ha darrere d'una fotografia",
-        "url": "--"
+        "url": "https://rutguardia.github.io/perennial2/"
       }
 ]
