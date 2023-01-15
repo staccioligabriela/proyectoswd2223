@@ -43,5 +43,14 @@
         "alt": "Logotip de la Web",
         "texto": "PlayRN és una pàgina sobre el món dels videojocs",
         "url": "https://bielgr28.github.io/projecte2/"
+      },
+      {
+        "id": 6,
+        "autor": "Ariana Ariño, Rut Guardia",
+        "titulo": "Perennial",
+        "srcimg": "--",
+        "alt": "Portada de la Web",
+        "texto": "A Perennial es recullen les històries que hi ha darrere d'una fotografia",
+        "url": "--"
       }
 ]
