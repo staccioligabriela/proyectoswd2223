@@ -61,5 +61,14 @@
          "alt": "Paquita Pistolas",
          "texto": "Benvinguts a Paquita Pistolas, el paradis per a tots els amants de les armes de foc.",
          "url": "https://germanudl.github.io/paginaoriolgerman/"	
+      },
+      {
+         "id": 8,
+         "autor": "Andrea Rodríguez, Ainhoa Oliver",
+         "titulo": "A&A Portfolio",
+         "srcimg": "https://andrearodrimar.github.io/portfolio/img/Imagen2.4aaa0d5e.jpg",
+         "alt": "Portada de la web",
+         "texto": "Portfolio de los proyectos de Andrea y Ainhoa.",
+         "url": "https://andrearodrimar.github.io/portfolio/"	
       }
 ]
