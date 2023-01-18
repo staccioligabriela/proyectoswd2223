@@ -79,5 +79,14 @@
          "alt": "logo braves lleida",
          "texto": "La millor pàgina de braves de Lleida.",
          "url": "https://mellamandavid.github.io/doraemon/"	
+      },
+       {
+         "id": 10,
+         "autor": "Cora Ciuraneta",
+         "titulo": "ROCK RECORDS",
+         "srcimg": "",
+         "alt": "Logotip de Rock Records",
+         "texto": "Rock Records es un segell discogràfic",
+         "url": "https://ccm24.github.io/RockRecords/"	
       }
 ]
