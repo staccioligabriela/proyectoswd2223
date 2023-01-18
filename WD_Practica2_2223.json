@@ -70,5 +70,14 @@
          "alt": "Portada de la web",
          "texto": "Portfolio de los proyectos de Andrea y Ainhoa.",
          "url": "https://andrearodrimar.github.io/portfolio/"	
+      },
+      {
+         "id": 9,
+         "autor": "David Ortega y Joan Mascarell",
+         "titulo": "Braves Lleida",
+         "srcimg": "https://mellamandavid.github.io/doraemon/braves_lleida_logo.png",
+         "alt": "logo braves lleida",
+         "texto": "La millor pàgina de braves de Lleida.",
+         "url": "https://mellamandavid.github.io/doraemon/"	
       }
 ]
