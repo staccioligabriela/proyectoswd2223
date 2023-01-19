@@ -89,4 +89,13 @@
          "texto": "Rock Records es un segell discogràfic",
          "url": "https://ccm24.github.io/RockRecords/"	
       }
+      {
+         "id": 11,
+         "autor": "Gabriela Staccioli",
+         "titulo": "DeCora Concept",
+         "srcimg": "https://staccioligabriela.github.io/decoraconcept/img/pareja%20barco.41306f6d.jpg",
+         "alt": "Imagen corporativa deCora",
+         "texto": "Follow your rhythm",
+         "url": "https://staccioligabriela.github.io/decoraconcept/"	
+      }
 ]
